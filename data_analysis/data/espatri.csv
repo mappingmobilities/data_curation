@@ -1,0 +1,374 @@
+espatri,fuori_europa,europa,interno,Francia,ricorrenze
+Africa,1,0,0,0,2
+"Africa, Asia",1,0,0,0,2
+America,1,0,0,,423
+"America, Africa, Austria",1,0,1,,1
+"America, Asia, Africa",1,0,1,,1
+"America, Austria",1,0,1,,2
+"America, Austria-Ungheria, Italia",1,1,1,,1
+"America, Austria, Germania",1,,,,1
+"America, Austria, Germania, Francia, Svizzera",1,,,,1
+"America, Europa",1,,,,26
+"America, Francia",1,,,,1
+"America, Germania, Ungheria",1,,,,1
+"America, Italia",1,,,,2
+"America, Italia, Francia",1,,,,1
+"America, Ungheria, Francia",1,,,,1
+"America, Ungheria, Germania",1,,,,3
+"America, Ungheria, Italia",1,,,,1
+"Asia, Africa",1,,,,4
+"Asia, Africa, America",1,,,,1
+"Asia, America",1,,,,1
+"Asia, Europa, America",1,,,,1
+Austria,0,,,,297
+Austria-Ungheria,0,,,,1635
+"Austria-Ungheria, America",1,,,,5
+"Austria-Ungheria, America, Esteri d'Europa",1,,,,2
+"Austria-Ungheria, Austria",0,,,,1
+"Austria-Ungheria, Bosnia-Erzegovina",0,,,,57
+"Austria-Ungheria, Bosnia-Erzegovina, Germania",0,,,,1
+"Austria-Ungheria, Esteri d'Europa",0,1,1,,117
+"Austria-Ungheria, Esteri d'Europa, America",1,,,,2
+"Austria-Ungheria, Europa",0,,,,15
+"Austria-Ungheria, Europa, America",1,,,,1
+"Austria-Ungheria, Francia",0,,,,24
+"Austria-Ungheria, Francia, Germania",0,,,,1
+"Austria-Ungheria, Francia, Germania, Italia",,,,,2
+"Austria-Ungheria, Francia, Germania, Svizzera",,,,,1
+"Austria-Ungheria, Francia, Germania, Svizzera, Italia",,,,,1
+"Austria-Ungheria, Francia, Italia",,,,,12
+"Austria-Ungheria, Francia, Italia, Germania",,,,,2
+"Austria-Ungheria, Francia, Italia, Germania, Svizzera",,,,,2
+"Austria-Ungheria, Francia, Italia, Svizzera, Germania",,,,,2
+"Austria-Ungheria, Francia, Svizzera",,,,,5
+"Austria-Ungheria, Francia, Svizzera, Germania, Italia",,,,,1
+"Austria-Ungheria, Francia, Svizzera, Italia, Germania",,,,,1
+"Austria-Ungheria, Germania",,,,,676
+"Austria-Ungheria, Germania, America",,,,,1
+"Austria-Ungheria, Germania, Bosnia-Erzegovina",,,,,2
+"Austria-Ungheria, Germania, Europa",,,,,1
+"Austria-Ungheria, Germania, Francia",,,,,81
+"Austria-Ungheria, Germania, Francia, Bosnia-Erzegovina",,,,,1
+"Austria-Ungheria, Germania, Francia, Italia",,,,,9
+"Austria-Ungheria, Germania, Francia, Italia, Svizzera",,,,,3
+"Austria-Ungheria, Germania, Francia, Svizzera",,,,,17
+"Austria-Ungheria, Germania, Francia, Svizzera, Italia",,,,,8
+"Austria-Ungheria, Germania, Francia, Svizzera, Italia, Turchia",,,,,1
+"Austria-Ungheria, Germania, Italia",,,,,138
+"Austria-Ungheria, Germania, Italia, Francia",,,,,10
+"Austria-Ungheria, Germania, Italia, Francia, Bosnia-Erzegovina",,,,,1
+"Austria-Ungheria, Germania, Italia, Francia, Svizzera",,,,,2
+"Austria-Ungheria, Germania, Italia, Svizzera",,,,,4
+"Austria-Ungheria, Germania, Italia, Svizzera, Francia",,,,,3
+"Austria-Ungheria, Germania, Svizzera",,,,,306
+"Austria-Ungheria, Germania, Svizzera, America",,,,,1
+"Austria-Ungheria, Germania, Svizzera, Bosnia-Erzegovina",,,,,1
+"Austria-Ungheria, Germania, Svizzera, Francia",,,,,14
+"Austria-Ungheria, Germania, Svizzera, Francia, Italia",,,,,10
+"Austria-Ungheria, Germania, Svizzera, Italia",,,,,18
+"Austria-Ungheria, Germania, Svizzera, Italia, Francia",,,,,5
+"Austria-Ungheria, Germania, Turchia",,,,,2
+"Austria-Ungheria, Italia",,,,,239
+"Austria-Ungheria, Italia, America",,,,,4
+"Austria-Ungheria, Italia, Esteri d'Europa",,,,,1
+"Austria-Ungheria, Italia, Europa",,,,,1
+"Austria-Ungheria, Italia, Francia",,,,,20
+"Austria-Ungheria, Italia, Francia, Germania",,,,,4
+"Austria-Ungheria, Italia, Francia, Germania, Svizzera",,,,,11
+"Austria-Ungheria, Italia, Francia, Germania, Svizzera, Bosnia-Erzegovina",,,,,2
+"Austria-Ungheria, Italia, Francia, Svizzera",,,,,1
+"Austria-Ungheria, Italia, Germania",,,,,33
+"Austria-Ungheria, Italia, Germania, Francia",,,,,1
+"Austria-Ungheria, Italia, Germania, Francia, Svizzera",,,,,1
+"Austria-Ungheria, Italia, Svizzera",,,,,11
+"Austria-Ungheria, Italia, Svizzera, Francia, Germania",,,,,1
+"Austria-Ungheria, Italia, Svizzera, Germania, Francia",,,,,1
+"Austria-Ungheria, Svizzera",,,,,35
+"Austria-Ungheria, Svizzera, Francia",,,,,7
+"Austria-Ungheria, Svizzera, Francia, Italia",,,,,4
+"Austria-Ungheria, Svizzera, Francia, Italia, Germania",,,,,1
+"Austria-Ungheria, Svizzera, Francia, Turchia",,,,,1
+"Austria-Ungheria, Svizzera, Germania",,,,,10
+"Austria-Ungheria, Svizzera, Germania, Francia",,,,,3
+"Austria-Ungheria, Svizzera, Germania, Francia, Italia",,,,,1
+"Austria-Ungheria, Svizzera, Germania, Italia",,,,,1
+"Austria-Ungheria, Svizzera, Italia",,,,,10
+"Austria, America",,,,,13
+"Austria, America, Europa",,,,,1
+"Austria, America, Ungheria",,,,,1
+"Austria, Austria-Ungheria",,,,,2
+"Austria, Bosnia-Erzegovina",,,,,4
+"Austria, Esteri d'Europa",,,,,8
+"Austria, Esteri d'Europa, Ungheria",,,,,1
+"Austria, Europa",,,,,1
+"Austria, Francia",,,,,13
+"Austria, Francia, Germania",,,,,9
+"Austria, Francia, Germania, Ungheria",,,,,1
+"Austria, Francia, Germania, Ungheria, Svizzera",,,,,1
+"Austria, Francia, Italia",,,,,12
+"Austria, Francia, Svizzera",,,,,4
+"Austria, Francia, Svizzera, Ungheria",,,,,1
+"Austria, Francia, Turchia",,,,,2
+"Austria, Francia, Ungheria",,,,,3
+"Austria, Francia, Ungheria, America, Svizzera",,,,,1
+"Austria, Francia, Ungheria, Bosnia-Erzegovina",,,,,1
+"Austria, Francia, Ungheria, Germania",,,,,3
+"Austria, Francia, Ungheria, Germania, Italia",,,,,1
+"Austria, Francia, Ungheria, Germania, Svizzera",,,,,1
+"Austria, Francia, Ungheria, Italia",,,,,1
+"Austria, Francia, Ungheria, Svizzera, Germania",,,,,1
+"Austria, Francia, Ungheria, Turchia, Italia",,,,,1
+"Austria, Germania",,,,,605
+"Austria, Germania, America",,,,,1
+"Austria, Germania, Francia",,,,,33
+"Austria, Germania, Francia, Italia",,,,,5
+"Austria, Germania, Francia, Svizzera",,,,,1
+"Austria, Germania, Francia, Svizzera, Italia",,,,,1
+"Austria, Germania, Francia, Ungheria",,,,,3
+"Austria, Germania, Italia",,,,,45
+"Austria, Germania, Italia, Francia",,,,,4
+"Austria, Germania, Italia, Svizzera",,,,,1
+"Austria, Germania, Italia, Svizzera, Francia",,,,,1
+"Austria, Germania, Svizzera",,,,,113
+"Austria, Germania, Svizzera, Bosnia-Erzegovina",,,,,2
+"Austria, Germania, Svizzera, Francia",,,,,2
+"Austria, Germania, Svizzera, Francia, Italia",,,,,1
+"Austria, Germania, Svizzera, Italia",,,,,1
+"Austria, Germania, Turchia",,,,,2
+"Austria, Germania, Ungheria",,,,,20
+"Austria, Germania, Ungheria, Italia, Svizzera",,,,,1
+"Austria, Germania, Ungheria, Svizzera, Francia, Italia",,,,,1
+"Austria, Germania, Ungheria, Svizzera, Italia, Francia",,,,,1
+"Austria, Italia",,,,,149
+"Austria, Italia, America",,,,,4
+"Austria, Italia, Francia",,,,,38
+"Austria, Italia, Francia, Germania",,,,,1
+"Austria, Italia, Francia, Germania, Svizzera",,,,,1
+"Austria, Italia, Francia, Germania, Svizzera, Ungheria",,,,,1
+"Austria, Italia, Francia, Svizzera, Germania",,,,,1
+"Austria, Italia, Francia, Ungheria",,,,,1
+"Austria, Italia, Francia, Ungheria, Germania",,,,,1
+"Austria, Italia, Germania",,,,,16
+"Austria, Italia, Germania, Bosnia-Erzegovina",,,,,1
+"Austria, Italia, Germania, Francia",,,,,3
+"Austria, Italia, Germania, Svizzera",,,,,4
+"Austria, Italia, Germania, Svizzera, Francia",,,,,1
+"Austria, Italia, Germania, Ungheria",,,,,1
+"Austria, Italia, Germania, Ungheria, Francia, Svizzera",,,,,1
+"Austria, Italia, Svizzera",,,,,3
+"Austria, Italia, Svizzera, Germania",,,,,1
+"Austria, Italia, Ungheria",,,,,5
+"Austria, Italia, Ungheria, Francia",,,,,2
+"Austria, Italia, Ungheria, Francia, Germania",,,,,3
+"Austria, Italia, Ungheria, Francia, Svizzera",,,,,2
+"Austria, Italia, Ungheria, Germania",,,,,9
+"Austria, Italia, Ungheria, Germania, Svizzera",,,,,2
+"Austria, Italia, Ungheria, Svizzera",,,,,2
+"Austria, Italia, Ungheria, Svizzera, Francia",,,,,1
+"Austria, Svizzera",,,,,18
+"Austria, Svizzera, Francia",,,,,3
+"Austria, Svizzera, Francia, Ungheria",,,,,3
+"Austria, Svizzera, Germania",,,,,8
+"Austria, Svizzera, Germania, Francia",,,,,2
+"Austria, Svizzera, Germania, Francia, Ungheria",,,,,1
+"Austria, Svizzera, Germania, Ungheria",,,,,5
+"Austria, Svizzera, Italia",,,,,2
+"Austria, Svizzera, Italia, Francia",,,,,1
+"Austria, Svizzera, Italia, Germania",,,,,1
+"Austria, Svizzera, Ungheria, Francia, Germania",,,,,2
+"Austria, Svizzera, Ungheria, Francia, Italia",,,,,1
+"Austria, Svizzera, Ungheria, Germania",,,,,3
+"Austria, Svizzera, Ungheria, Germania, Italia",,,,,3
+"Austria, Turchia, Svizzera, Francia",,,,,1
+"Austria, Turchia, Ungheria, Italia",,,,,1
+"Austria, Ungheria",,,,,62
+"Austria, Ungheria, America",,,,,1
+"Austria, Ungheria, Bosnia-Erzegovina",,,,,1
+"Austria, Ungheria, Esteri d'Europa",,,,,5
+"Austria, Ungheria, Europa",,,,,2
+"Austria, Ungheria, Francia",,,,,16
+"Austria, Ungheria, Francia, America",,,,,1
+"Austria, Ungheria, Francia, Germania",,,,,3
+"Austria, Ungheria, Francia, Germania, Italia",,,,,1
+"Austria, Ungheria, Francia, Germania, Italia, Svizzera",,,,,1
+"Austria, Ungheria, Francia, Italia",,,,,8
+"Austria, Ungheria, Francia, Svizzera",,,,,3
+"Austria, Ungheria, Germania",,,,,138
+"Austria, Ungheria, Germania, Francia",,,,,9
+"Austria, Ungheria, Germania, Francia, Svizzera",,,,,1
+"Austria, Ungheria, Germania, Italia",,,,,4
+"Austria, Ungheria, Germania, Italia, Francia, Svizzera",,,,,1
+"Austria, Ungheria, Germania, Italia, Svizzera",,,,,1
+"Austria, Ungheria, Germania, Svizzera",,,,,6
+"Austria, Ungheria, Germania, Svizzera, Italia, Francia",,,,,1
+"Austria, Ungheria, Italia",,,,,46
+"Austria, Ungheria, Italia, Francia",,,,,9
+"Austria, Ungheria, Italia, Germania",,,,,1
+"Austria, Ungheria, Italia, Germania, Bosnia-Erzegovina",,,,,1
+"Austria, Ungheria, Svizzera",,,,,8
+"Austria, Ungheria, Svizzera, Francia",,,,,1
+"Austria, Ungheria, Svizzera, Germania",,,,,4
+"Austria, Ungheria, Svizzera, Germania, Italia",,,,,1
+"Austria, Ungheria, Svizzera, Italia",,,,,1
+Bosnia-Erzegovina,,,,,18
+"Bosnia-Erzegovina, Austria",,,,,2
+"Bosnia-Erzegovina, Austria-Ungheria",,,,,6
+"Bosnia-Erzegovina, Europa",,,,,1
+"Bosnia-Erzegovina, Francia, Germania",,,,,1
+"Bosnia-Erzegovina, Germania",,,,,2
+"Bosnia-Erzegovina, Italia",,,,,1
+"Bosnia-Erzegovina, Italia, Austria",,,,,1
+"Bosnia-Erzegovina, Svizzera",,,,,1
+"Bosnia-Erzegovina, Ungheria",,,,,1
+Esteri d'Europa,,,,,46
+"Esteri d'Europa, America",,,,,1
+"Esteri d'Europa, Austria-Ungheria",,,,,35
+"Esteri d'Europa, Austria-Ungheria, America",,,,,1
+"Esteri d'Europa, Europa",,,,,4
+Europa,,,,,3121
+"Europa, Africa",,,,,1
+"Europa, America",,,,,195
+"Europa, America, Asia",,,,,1
+"Europa, Asia",,,,,3
+"Europa, Asia, America, Africa",,,,,1
+"Europa, Austria-Ungheria",,,,,3
+"Europa, Austria, Italia",,,,,1
+"Europa, Austria, Ungheria",,,,,1
+"Europa, Esteri d'Europa",,,,,30
+"Europa, Esteri d'Europa, America",,,,,3
+"Europa, Germania",,,,,1
+Francia,,,,,18
+"Francia, Austria",,,,,3
+"Francia, Austria-Ungheria",,,,,2
+"Francia, Austria, Italia",,,,,1
+"Francia, Bosnia-Erzegovina",,,,,1
+"Francia, Germania, Austria-Ungheria",,,,,1
+"Francia, Germania, Italia",,,,,1
+"Francia, Germania, Svizzera",,,,,1
+"Francia, Italia",,,,,6
+"Francia, Italia, Austria",,,,,2
+"Francia, Italia, Austria-Ungheria, Germania",,,,,1
+"Francia, Italia, Germania",,,,,1
+"Francia, Italia, Svizzera",,,,,3
+"Francia, Svizzera, Germania",,,,,3
+"Francia, Svizzera, Germania, Austria-Ungheria, Italia",,,,,2
+"Francia, Svizzera, Germania, Austria, Italia",,,,,1
+"Francia, Svizzera, Germania, Italia",,,,,1
+"Francia, Svizzera, Italia",,,,,3
+"Francia, Svizzera, Ungheria",,,,,1
+"Francia, Ungheria",,,,,1
+"Francia, Ungheria, Germania",,,,,1
+"Francia, Ungheria, Germania, Austria",,,,,1
+"Francia, Ungheria, Italia, Svizzera",,,,,1
+Germania,,,,,85
+"Germania, Austria",,,,,16
+"Germania, Austria-Ungheria",,,,,44
+"Germania, Austria-Ungheria, Francia",,,,,1
+"Germania, Austria-Ungheria, Italia",,,,,1
+"Germania, Austria-Ungheria, Italia, Svizzera",,,,,1
+"Germania, Austria-Ungheria, Svizzera",,,,,4
+"Germania, Austria-Ungheria, Svizzera, Francia",,,,,1
+"Germania, Austria, Ungheria",,,,,1
+"Germania, Bosnia-Erzegovina",,,,,1
+"Germania, Francia",,,,,16
+"Germania, Francia, Austria",,,,,1
+"Germania, Francia, Austria-Ungheria, Italia",,,,,1
+"Germania, Francia, Italia",,,,,9
+"Germania, Francia, Italia, Austria-Ungheria",,,,,1
+"Germania, Francia, Italia, Svizzera",,,,,2
+"Germania, Francia, Svizzera",,,,,4
+"Germania, Francia, Svizzera, Italia",,,,,2
+"Germania, Francia, Svizzera, Ungheria",,,,,1
+"Germania, Italia",,,,,21
+"Germania, Italia, Austria",,,,,1
+"Germania, Italia, Austria-Ungheria",,,,,1
+"Germania, Italia, Austria-Ungheria, Francia, Svizzera",,,,,1
+"Germania, Italia, Francia",,,,,4
+"Germania, Italia, Francia, Svizzera",,,,,3
+"Germania, Italia, Svizzera",,,,,5
+"Germania, Italia, Svizzera, Francia",,,,,1
+"Germania, Svizzera",,,,,26
+"Germania, Svizzera, Austria",,,,,2
+"Germania, Svizzera, Austria-Ungheria",,,,,1
+"Germania, Svizzera, Austria-Ungheria, Francia, Italia",,,,,1
+"Germania, Svizzera, Bosnia-Erzegovina",,,,,1
+"Germania, Svizzera, Francia",,,,,7
+"Germania, Svizzera, Francia, Italia, Austria-Ungheria",,,,,1
+"Germania, Svizzera, Italia",,,,,9
+"Germania, Ungheria",,,,,2
+"Germania, Ungheria, Austria, Svizzera",,,,,1
+Italia,,,,,367
+"Italia, America",,,,,7
+"Italia, Austria",,,,,9
+"Italia, Austria-Ungheria",,,,,19
+"Italia, Austria-Ungheria, Francia",,,,,1
+"Italia, Austria-Ungheria, Francia, Svizzera",,,,,1
+"Italia, Austria-Ungheria, Germania",,,,,1
+"Italia, Austria-Ungheria, Svizzera, Germania",,,,,1
+"Italia, Austria, Germania",,,,,1
+"Italia, Austria, Ungheria",,,,,1
+"Italia, Francia",,,,,12
+"Italia, Francia, America",,,,,3
+"Italia, Francia, Austria-Ungheria",,,,,3
+"Italia, Francia, Germania",,,,,7
+"Italia, Francia, Germania, Svizzera",,,,,1
+"Italia, Francia, Svizzera",,,,,3
+"Italia, Francia, Svizzera, Germania",,,,,1
+"Italia, Francia, Ungheria",,,,,2
+"Italia, Germania",,,,,10
+"Italia, Germania, Austria-Ungheria",,,,,2
+"Italia, Germania, Austria-Ungheria, Francia, Turchia, Svizzera",,,,,1
+"Italia, Germania, Francia, Austria-Ungheria",,,,,1
+"Italia, Germania, Francia, Svizzera",,,,,1
+"Italia, Germania, Svizzera, Francia",,,,,1
+"Italia, Svizzera",,,,,3
+"Italia, Svizzera, Francia, Austria-Ungheria",,,,,1
+"Italia, Svizzera, Francia, Germania",,,,,1
+"Italia, Svizzera, Francia, Germania, Austria-Ungheria",,,,,2
+"Italia, Svizzera, Germania, Francia",,,,,1
+"Italia, Svizzera, Turchia, Austria-Ungheria, Germania, Francia",,,,,1
+"Italia, Ungheria",,,,,2
+"Italia, Ungheria, Austria",,,,,1
+"Italia, Ungheria, Francia, Svizzera",,,,,1
+Svizzera,,,,,20
+"Svizzera, Austria",,,,,4
+"Svizzera, Austria-Ungheria",,,,,2
+"Svizzera, Austria-Ungheria, Germania",,,,,1
+"Svizzera, Austria-Ungheria, Germania, Italia",,,,,1
+"Svizzera, Austria, Germania",,,,,1
+"Svizzera, Austria, Germania, Italia",,,,,1
+"Svizzera, Europa",,,,,1
+"Svizzera, Francia",,,,,6
+"Svizzera, Francia, Austria",,,,,1
+"Svizzera, Francia, Germania",,,,,1
+"Svizzera, Francia, Germania, Austria-Ungheria",,,,,1
+"Svizzera, Francia, Germania, Austria-Ungheria, Italia",,,,,1
+"Svizzera, Germania",,,,,4
+"Svizzera, Germania, Austria",,,,,2
+"Svizzera, Germania, Austria-Ungheria",,,,,5
+"Svizzera, Germania, Austria-Ungheria, Francia, Italia",,,,,2
+"Svizzera, Italia",,,,,3
+"Svizzera, Italia, Austria",,,,,1
+"Svizzera, Italia, Austria-Ungheria, Germania, Francia",,,,,1
+"Svizzera, Italia, Francia",,,,,1
+"Svizzera, Italia, Francia, Germania, Austria-Ungheria",,,,,1
+"Svizzera, Italia, Francia, Ungheria",,,,,1
+"Svizzera, Italia, Germania",,,,,1
+"Svizzera, Ungheria, Germania, Francia",,,,,1
+Turchia,,,,,1
+"Turchia, Italia, Svizzera, Germania",,,,,1
+Ungheria,,,,,2
+"Ungheria, Austria, Germania, Svizzera",,,,,1
+"Ungheria, Austria, Italia",,,,,1
+"Ungheria, Francia",,,,,3
+"Ungheria, Francia, Germania",,,,,1
+"Ungheria, Francia, Italia",,,,,1
+"Ungheria, Francia, Italia, Svizzera",,,,,1
+"Ungheria, Francia, Svizzera",,,,,1
+"Ungheria, Germania",,,,,11
+"Ungheria, Germania, Austria",,,,,1
+"Ungheria, Germania, Francia, Italia",,,,,1
+"Ungheria, Germania, Italia",,,,,1
+"Ungheria, Germania, Svizzera",,,,,1
+"Ungheria, Germania, Svizzera, Francia",,,,,1
+"Ungheria, Italia",,,,,1
