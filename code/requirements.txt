@@ -1,0 +1,9 @@
+gspread 
+pandas 
+requests
+numpy
+python-Levenshtein
+fuzzywuzzy
+matplotlib
+geopandas 
+folium
