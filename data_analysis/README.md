@@ -12,7 +12,7 @@
 |mapping_lavori_mestieri.csv|tabella del mapping fra i mestieri e le tassonomie|
 |mapping_espatri.csv|tabella per l'aggregazione fra destinazioni e macro aree|
 |mapping_luoghi.csv|tabella per l'aggregazione dei toponimi alle località di valle|
-|dati_corretti.csv|dati estratti da Epicollect e ripuliti in (Google Spreadsheet)[https://docs.google.com/spreadsheets/d/1Rc8JTlzRvxwIkI5MQC3GwxyqADqd1cDC8R_if-EcMOo/edit#gid=1203296831]|
+|dati_corretti.csv|dati estratti da Epicollect e ripuliti in [google spreadsheet](https://docs.google.com/spreadsheets/d/1Rc8JTlzRvxwIkI5MQC3GwxyqADqd1cDC8R_if-EcMOo/edit#gid=1203296831)|
 |branch-1__rinnovi-inserire-un-branch-per-ogni-rinnovo-presente.csv|estrazione dei dati da Epicollect della sezione dei rinnovi dei passaporti|
 |passaporti_con_campi_vuoti.xlsx|file xlsx generato dallo script mapping.ipynb con i dati incompleti|
 
